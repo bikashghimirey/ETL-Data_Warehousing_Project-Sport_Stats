@@ -1,0 +1,21 @@
+idTeam,strTeam,strTeamShort,intFormedYear,idVenue,strStadium,strLocation,intStadiumCapacity,strWebsite,stadiumCostCleaned,city,region,country,Keywords
+133604,Arsenal,ARS,1892,15528,Emirates Stadium,"Holloway, London, England",60338,www.arsenal.com,390000000.0,Holloway,London,England,Gunners
+133601,Aston Villa,AVL,1874,16122,Villa Park,"Aston, Birmingham",42785,www.avfc.co.uk,189712300.0,Aston,Birmingham,England,Villa
+134301,Bournemouth,BOU,1890,16113,Vitality Stadium,"Bournemouth, England",11464,www.afcb.co.uk,189712300.0,Bournemouth,England,England,Cherries
+134355,Brentford,BRE,1889,18406,Brentford Community Stadium,"Brentford, London, England",17250,www.brentfordfc.com,71000000.0,Brentford,London,England,The Bees
+133619,Brighton,BRI,1901,28853,Amex Stadium,"Falmer, Brighton, East Sussex, England",30750,www.seagulls.co.uk,93000000.0,Falmer,Brighton,England,Seagulls
+133610,Chelsea,CHE,1905,16126,Stamford Bridge,"Fulham, London",41798,www.chelseafc.com,189712300.0,Fulham,London,England,The Blues
+133632,Crystal Palace,CRY,1905,16115,Selhurst Park,"South Norwood, London",26255,www.cpfc.co.uk,30000.0,South Norwood,London,England,The Eagles
+133615,Everton,EVE,1878,15532,Goodison Park,"Walton, Liverpool",40157,www.evertonfc.com,3000.0,Walton,Liverpool,England,The Toffees
+133600,Fulham,FUL,1879,16373,Craven Cottage,"Fulham, London, England",25700,www.fulhamfc.com,189712300.0,Fulham,London,England,The Cottagers
+133622,Ipswich,IPS,1878,16258,Portman Road,Ipswich,29673,www.itfc.co.uk,189712300.0,Ipswich,,England,
+133626,Leicester,LEI,1884,16116,King Power Stadium,"Filbert Way, Leicester",32262,www.lcfc.com,37000000.0,Filbert Way,Leicester,England,The Foxes
+133602,Liverpool,LIV,1892,15407,Anfield,"Anfield, Liverpool",55000,www.liverpoolfc.tv,189712300.0,Anfield,Liverpool,England,The Reds
+133613,Manchester City,MCI,1880,16119,Etihad Stadium,"Etihad Campus, Manchester",62000,www.mcfc.co.uk,189712300.0,Etihad Campus,Manchester,England,City
+133612,Manchester United,MUN,1878,18332,Old Trafford,"Trafford, Greater Manchester",76962,www.manutd.com,90000.0,Trafford,Greater Manchester,England,The Red Devils
+134777,Newcastle,NEW,1892,16294,St James Park,Newcastle upon Tyne,52305,www.nufc.co.uk,189712300.0,Newcastle upon Tyne,,England,The Magpies
+133720,Nottingham Forest,NOT,1865,18249,City Ground,"City Ground, Nottingham",30445,www.nottinghamforest.co.uk,189712300.0,City Ground,Nottingham,England,
+134778,Southampton,SOU,1885,16123,St. Mary,"Britannia Rd, Southampton, England",32505,www.saintsfc.co.uk,32000000.0,Britannia Rd,Southampton,England,The Saints
+133616,Tottenham,TOT,1882,16118,Tottenham Hotspur Stadium,"Bill Nicholson Way, Tottenham, London",36284,www.tottenhamhotspur.com,1000000000.0,Bill Nicholson Way,Tottenham,England,The Lilywhites
+133636,West Ham,WHU,1895,16112,London Stadium,"London Stadium, Queen Elizabeth Olympic Park, London",60000,www.whufc.com,274000000.0,London Stadium,Queen Elizabeth Olympic Park,England,The Irons
+133599,Wolves,WOL,1877,16125,Molineux Stadium,"Waterloo Road, Wolverhampton, England",31700,www.wolves.co.uk,189712300.0,Waterloo Road,Wolverhampton,England,Wolves
